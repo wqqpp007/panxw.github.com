@@ -11,7 +11,7 @@ http://www.panxw.com, 支持PC与智能机访问。
 
 #### 3.联系作者
 QQ交流群: 168563980  
-Github：https://github.com/panxw  
+Github：https://github.com/wqqpp007 
 
 
 ## License
