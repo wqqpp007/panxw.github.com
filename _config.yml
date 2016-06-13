@@ -3,19 +3,18 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: wqqpp007
+author: "wqqpp007"
+email: wqqpp007@gmail.com
+name: "wqqpp007个人博客"
+
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
+["fb", "足球","/posts/zq.html"], 
+["bb", "篮球","/posts/lq.html"],
+["pp", "乒乓","/posts/ppq.html"], 
+["ym", "羽毛球","/posts/ymq.html"],
+["golf", "高尔夫","/posts/gefq.html"], 
+["other", "其他","/posts/other.html"],
 ["about", "关于","/about.html"]
 ]
 
